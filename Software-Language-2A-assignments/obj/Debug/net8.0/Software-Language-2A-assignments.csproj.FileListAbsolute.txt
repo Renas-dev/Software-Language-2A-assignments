@@ -1,0 +1,15 @@
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\bin\Debug\net8.0\Software-Language-2A-assignments.exe
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\bin\Debug\net8.0\Software-Language-2A-assignments.deps.json
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\bin\Debug\net8.0\Software-Language-2A-assignments.runtimeconfig.json
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\bin\Debug\net8.0\Software-Language-2A-assignments.dll
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\bin\Debug\net8.0\Software-Language-2A-assignments.pdb
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\obj\Debug\net8.0\Software-Language-2A-assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\obj\Debug\net8.0\Software-Language-2A-assignments.AssemblyInfoInputs.cache
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\obj\Debug\net8.0\Software-Language-2A-assignments.AssemblyInfo.cs
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\obj\Debug\net8.0\Software-Language-2A-assignments.csproj.CoreCompileInputs.cache
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\obj\Debug\net8.0\Software-Language-2A-assignments.sourcelink.json
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\obj\Debug\net8.0\Software-Language-2A-assignments.dll
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\obj\Debug\net8.0\refint\Software-Language-2A-assignments.dll
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\obj\Debug\net8.0\Software-Language-2A-assignments.pdb
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\obj\Debug\net8.0\Software-Language-2A-assignments.genruntimeconfig.cache
+C:\Users\renas\source\repos\Software-Language-2A-assignments\Software-Language-2A-assignments\obj\Debug\net8.0\ref\Software-Language-2A-assignments.dll
